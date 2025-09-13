@@ -2,7 +2,7 @@
 
 🌍 Location: British Columbia, Canada  
 🎓 Studying: Computer Science at UNBC  
-🎉 Age: 22
+🎉 Age: 23
 🚀 Focus: Robotics, Front-end Development
 
 Welcome to my GitHub profile! I'm Ramin, a passionate computer science student at UNBC, with a deep love for crafting user-friendly and visually appealing web experiences. Currently in the pursuit of excellence, I'm honing my skills in the realm of Robotics and front-end development.
