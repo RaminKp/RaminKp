@@ -2,8 +2,8 @@
 
 🌍 Location: British Columbia, Canada  
 🎓 Studying: Computer Science at UNBC  
-🎉 Age: 23
-🚀 Focus: Robotics, Front-end Development
+🎉 Age: 24
+🚀 Focus: Robotics, Web & Application Development
 
 Welcome to my GitHub profile! I'm Ramin, a passionate computer science student at UNBC, with a deep love for crafting user-friendly and visually appealing web experiences. Currently in the pursuit of excellence, I'm honing my skills in the realm of Robotics and front-end development.
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Ramin, a passionate computer science student a
 
 🌱 **Learning Never Stops:** The world of technology is ever-evolving, and so am I. I'm constantly learning and adapting to the latest trends and tools.
 
-🛠️ **Tech Toolbox:** HTML, CSS, Bootstrap, Bulma, JavaScript, Python, Django, ROS and more to come! I'm always looking for opportunities to collaborate and contribute to exciting projects that push the boundaries of my work.
+🛠️ **Tech Toolbox:** Python, Django, ROS, HTML, CSS, Bootstrap, Bulma, JavaScript, and more to come! I'm always looking for opportunities to collaborate and contribute to exciting projects that push the boundaries of my work.
 
 🌟 **Connect with Me:** Let's connect and share our passion! Feel free to reach out through my GitHub repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/raminkupaei). Together, we can create digital experiences that leave a mark.
 
